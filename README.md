@@ -3,7 +3,7 @@
 
 # install 
 ```
-git clone
+git clone https://github.com/h-s-miller/platemappy.git
 pip install platemappy 
 ```
 # load module 
