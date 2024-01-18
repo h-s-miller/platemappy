@@ -1,3 +1,5 @@
+""" makes 96-well plates for experiments """
+
 __version__ = "0.1"
 
 import pandas as pd
